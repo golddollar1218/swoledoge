@@ -1,14 +1,16 @@
-const CA = "0xcomingsoon";
+const CA = "0x9ade17e508b7ec82b57db5f21cf5aca81aa50116";
 
 const GALLERY = [
-  "img/gallery/01.png",
-  "img/gallery/02.jpg",
-  "img/gallery/03.jpg",
-  "img/gallery/04.jpg",
-  "img/gallery/05.png",
-  "img/mascot.png",
-  "img/avatar.jpg",
-  "img/banner.jpg",
+  "img/gallery/1.jpg",
+  "img/gallery/2.jpg",
+  "img/gallery/3.jpg",
+  "img/gallery/4.jpg",
+  "img/gallery/5.jpg",
+  "img/gallery/6.jpg",
+  "img/gallery/7.jpg",
+  "img/gallery/8.jpg",
+  "img/gallery/9.jpg",
+  "img/gallery/10.jpg",
 ];
 
 async function copyText(text) {
